@@ -1,0 +1,33 @@
+.picture img{
+ width: 100%;
+}
+
+.movie_text{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+.movie_text i{
+    float: right;
+}
+
+.movie_info span{
+    color: gold;
+    font-size: 25px;
+    margin-left: 3px;
+}
+
+.movie_info h5{
+    font-size: 18px;
+}
+
+.li {
+    padding: 20px;
+    margin: 20px;
+}
+
+ iframe{
+    width: 100%;
+}
